@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Imam-test/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Imam-test/static/js/main.5474c051.chunk.js",
+    "main.js.map": "/Imam-test/static/js/main.5474c051.chunk.js.map",
+    "runtime-main.js": "/Imam-test/static/js/runtime-main.fe0cb3fd.js",
+    "runtime-main.js.map": "/Imam-test/static/js/runtime-main.fe0cb3fd.js.map",
+    "static/css/2.2da8bee8.chunk.css": "/Imam-test/static/css/2.2da8bee8.chunk.css",
+    "static/js/2.f6668dfe.chunk.js": "/Imam-test/static/js/2.f6668dfe.chunk.js",
+    "static/js/2.f6668dfe.chunk.js.map": "/Imam-test/static/js/2.f6668dfe.chunk.js.map",
+    "index.html": "/Imam-test/index.html",
+    "precache-manifest.367383d0a2e3ce7a8c9e96cd8547479d.js": "/Imam-test/precache-manifest.367383d0a2e3ce7a8c9e96cd8547479d.js",
+    "service-worker.js": "/Imam-test/service-worker.js",
+    "static/css/2.2da8bee8.chunk.css.map": "/Imam-test/static/css/2.2da8bee8.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/Imam-test/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f6668dfe.chunk.js.LICENSE.txt": "/Imam-test/static/js/2.f6668dfe.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/Imam-test/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe0cb3fd.js",
+    "static/css/2.2da8bee8.chunk.css",
+    "static/js/2.f6668dfe.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.5474c051.chunk.js"
+  ]
+}
