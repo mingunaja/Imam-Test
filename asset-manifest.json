@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Imam-Test/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Imam-Test/static/js/main.e04fbea6.chunk.js",
-    "main.js.map": "/Imam-Test/static/js/main.e04fbea6.chunk.js.map",
+    "main.js": "/Imam-Test/static/js/main.f3181cff.chunk.js",
+    "main.js.map": "/Imam-Test/static/js/main.f3181cff.chunk.js.map",
     "runtime-main.js": "/Imam-Test/static/js/runtime-main.c9283188.js",
     "runtime-main.js.map": "/Imam-Test/static/js/runtime-main.c9283188.js.map",
     "static/css/2.a5d5b69a.chunk.css": "/Imam-Test/static/css/2.a5d5b69a.chunk.css",
     "static/js/2.f6668dfe.chunk.js": "/Imam-Test/static/js/2.f6668dfe.chunk.js",
     "static/js/2.f6668dfe.chunk.js.map": "/Imam-Test/static/js/2.f6668dfe.chunk.js.map",
     "index.html": "/Imam-Test/index.html",
-    "precache-manifest.76c2a66be21c3d86f0bf640b7a31ad35.js": "/Imam-Test/precache-manifest.76c2a66be21c3d86f0bf640b7a31ad35.js",
+    "precache-manifest.f72025b6cf89a481eaebaa00dbcefac4.js": "/Imam-Test/precache-manifest.f72025b6cf89a481eaebaa00dbcefac4.js",
     "service-worker.js": "/Imam-Test/service-worker.js",
     "static/css/2.a5d5b69a.chunk.css.map": "/Imam-Test/static/css/2.a5d5b69a.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/Imam-Test/static/css/main.5f361e03.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.a5d5b69a.chunk.css",
     "static/js/2.f6668dfe.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.e04fbea6.chunk.js"
+    "static/js/main.f3181cff.chunk.js"
   ]
 }
